@@ -1,5 +1,5 @@
 # Data-Analysis
-<strong> Data files <strong/>:
+<strong> Data files <\strong> :
 1. olympics.csv
 2. census.csv
 3. scimagojr-3.xlsx
